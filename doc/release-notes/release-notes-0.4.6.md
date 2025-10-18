@@ -35,3 +35,5 @@ Work around issue in boost::program_options that prevents from compiling in clan
 Fixed bugs occurring only on platforms with unsigned characters (such as ARM).
 Rename make_windows_icon.py to .sh as it is a shell script. Fixes #1099 (Bitcoin-Qt)
 Various trivial internal corrections to types used for counting/size loops and warnings
+
+<!-- Auto-update: 2025-10-18T09:36:14.129552 -->
